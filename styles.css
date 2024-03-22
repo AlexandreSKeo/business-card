@@ -38,8 +38,8 @@ body {
   to {background-color: lightsteelblue;}
 }
 
-.card :hover {
-    color: aliceblue;
+.card:hover {
+    color: aqua;
 }
 /*
 Stretch goals:
